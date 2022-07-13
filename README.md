@@ -1,1 +1,2 @@
 # AI-CA4-Spotify-Genre-of-Music-Prediction
+This project is defined in four phases. In phase zero, we examine the data set and analyze the exploratory data. In the first phase, we will get familiar with preprocessing. In the second phase, we will implement and optimize models using several classifiers defined in the Learn-Scikit library. Finally, in the third phase, using the optimal models of the second phase, we will implement several group learning methods and analyze the results.
